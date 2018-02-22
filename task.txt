@@ -1,0 +1,6 @@
+Create Database with EF
+Create Product Table(ProductId,Name,Price(decimal), Quantity(int),DateAdded,Description)
+Create Controller with List,Ceate,Edit,Delete action results and views and add all of those functionality.
+Color the prices are more than 1000 with red color to the background tr in the list view.
+
+
